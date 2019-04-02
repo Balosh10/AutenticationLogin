@@ -1218,6 +1218,7 @@
         "lib/net45/System.Diagnostics.Tracer.pdb",
         "lib/net45/System.Diagnostics.Tracer.xml",
         "lib/netstandard1.3/System.Diagnostics.Tracer.dll",
+        "lib/netstandard1.3/System.Diagnostics.Tracer.dll.mdb",
         "lib/netstandard1.3/System.Diagnostics.Tracer.pdb",
         "lib/netstandard1.3/System.Diagnostics.Tracer.xml",
         "readme.txt",
@@ -2244,6 +2245,7 @@
       "path": "system.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2672,6 +2674,7 @@
       "path": "system.threading.tasks/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2744,6 +2747,7 @@
         "lib/MonoAndroid10/Plugin.DeviceInfo.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.DeviceInfo.dll",
+        "lib/MonoAndroid10/Plugin.DeviceInfo.dll.mdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.pdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.xml",
         "lib/UAP10/Plugin.DeviceInfo.Abstractions.dll",
@@ -2954,10 +2958,13 @@
         "build/Xamarin.LiveReload.targets",
         "build/Xamarin.LiveReload.tasks",
         "lib/netstandard2.0/Xamarin.Forms.Loader.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Loader.dll.mdb",
         "lib/netstandard2.0/Xamarin.Forms.Loader.pdb",
         "lib/netstandard2.0/Xamarin.Live.Reload.dll",
+        "lib/netstandard2.0/Xamarin.Live.Reload.dll.mdb",
         "lib/netstandard2.0/Xamarin.Live.Reload.pdb",
         "lib/netstandard2.0/Xamarin.Live.dll",
+        "lib/netstandard2.0/Xamarin.Live.dll.mdb",
         "lib/netstandard2.0/Xamarin.Live.pdb",
         "tools/mqtt.exe",
         "tools/mqtt.exe.config",
@@ -3001,11 +3008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AppXamarin\\ERP\\ERP\\ERP\\ERP.csproj",
+      "projectUniqueName": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP\\ERP.csproj",
       "projectName": "ERP",
-      "projectPath": "C:\\AppXamarin\\ERP\\ERP\\ERP\\ERP.csproj",
+      "projectPath": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP\\ERP.csproj",
       "packagesPath": "C:\\Users\\ocespedes\\.nuget\\packages\\",
-      "outputPath": "C:\\AppXamarin\\ERP\\ERP\\ERP\\obj\\",
+      "outputPath": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

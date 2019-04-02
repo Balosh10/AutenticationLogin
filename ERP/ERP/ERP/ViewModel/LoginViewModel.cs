@@ -33,9 +33,12 @@ namespace ERP.ViewModel
             }
         }
         public ICommand SubmitCommand { protected set; get; }
+        public ICommand RegistrarCommad { protected set; get; }
+
         public LoginViewModel()
         {
             SubmitCommand = new Command(OnSubmit);
+            RegistrarCommad = new Command(RegistrarUser);
         }
         public void OnSubmit()
         {
@@ -44,6 +47,10 @@ namespace ERP.ViewModel
             {
                 DisplayInvalidLoginPrompt();
             }
+        }
+
+        public void RegistrarUser() {
+            
         }
     }
 } 

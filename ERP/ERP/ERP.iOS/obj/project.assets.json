@@ -2349,6 +2349,7 @@
         "lib/net45/System.Diagnostics.Tracer.pdb",
         "lib/net45/System.Diagnostics.Tracer.xml",
         "lib/netstandard1.3/System.Diagnostics.Tracer.dll",
+        "lib/netstandard1.3/System.Diagnostics.Tracer.dll.mdb",
         "lib/netstandard1.3/System.Diagnostics.Tracer.pdb",
         "lib/netstandard1.3/System.Diagnostics.Tracer.xml",
         "readme.txt",
@@ -3229,6 +3230,7 @@
         "lib/MonoAndroid10/Plugin.DeviceInfo.Abstractions.pdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.Abstractions.xml",
         "lib/MonoAndroid10/Plugin.DeviceInfo.dll",
+        "lib/MonoAndroid10/Plugin.DeviceInfo.dll.mdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.pdb",
         "lib/MonoAndroid10/Plugin.DeviceInfo.xml",
         "lib/UAP10/Plugin.DeviceInfo.Abstractions.dll",
@@ -3439,10 +3441,13 @@
         "build/Xamarin.LiveReload.targets",
         "build/Xamarin.LiveReload.tasks",
         "lib/netstandard2.0/Xamarin.Forms.Loader.dll",
+        "lib/netstandard2.0/Xamarin.Forms.Loader.dll.mdb",
         "lib/netstandard2.0/Xamarin.Forms.Loader.pdb",
         "lib/netstandard2.0/Xamarin.Live.Reload.dll",
+        "lib/netstandard2.0/Xamarin.Live.Reload.dll.mdb",
         "lib/netstandard2.0/Xamarin.Live.Reload.pdb",
         "lib/netstandard2.0/Xamarin.Live.dll",
+        "lib/netstandard2.0/Xamarin.Live.dll.mdb",
         "lib/netstandard2.0/Xamarin.Live.pdb",
         "tools/mqtt.exe",
         "tools/mqtt.exe.config",
@@ -3488,11 +3493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AppXamarin\\ERP\\ERP\\ERP.iOS\\ERP.iOS.csproj",
+      "projectUniqueName": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP.iOS\\ERP.iOS.csproj",
       "projectName": "ERP.iOS",
-      "projectPath": "C:\\AppXamarin\\ERP\\ERP\\ERP.iOS\\ERP.iOS.csproj",
+      "projectPath": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP.iOS\\ERP.iOS.csproj",
       "packagesPath": "C:\\Users\\ocespedes\\.nuget\\packages\\",
-      "outputPath": "C:\\AppXamarin\\ERP\\ERP\\ERP.iOS\\obj\\",
+      "outputPath": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3510,8 +3515,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\AppXamarin\\ERP\\ERP\\ERP\\ERP.csproj": {
-              "projectPath": "C:\\AppXamarin\\ERP\\ERP\\ERP\\ERP.csproj"
+            "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP\\ERP.csproj": {
+              "projectPath": "C:\\AppXamarin\\Authentication\\ERP\\ERP\\ERP\\ERP.csproj"
             }
           }
         }

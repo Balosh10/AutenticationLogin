@@ -17,8 +17,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyMetadata("MqttLocalHostAddress", "192.168.56.1|192.168.166.2|192.168.10.188")]
 [assembly: System.Reflection.AssemblyMetadata("MqttPort", "1883")]
 [assembly: System.Reflection.AssemblyMetadata("MqttTopicPrefix", "xlr/")]
-[assembly: System.Reflection.AssemblyMetadata("MqttSecretKey", "WH9yzBH44bwZWHBZdiFtX1edjmfjpE0PfjTiMzMk3CY=")]
-[assembly: System.Reflection.AssemblyMetadata("MqttSecretIV", "TqV4lRfn1QTL5nhNX7507w==")]
+[assembly: System.Reflection.AssemblyMetadata("MqttSecretKey", "AEC+I84T2ruUczpNpR3UueTX7hF+rG7RKKqPQFMDyjY=")]
+[assembly: System.Reflection.AssemblyMetadata("MqttSecretIV", "cHd53WLnvnjWNILsJmAfPg==")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 

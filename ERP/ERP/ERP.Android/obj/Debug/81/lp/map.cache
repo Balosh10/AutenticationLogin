@@ -1,4 +1,5 @@
 ERP
+System.Runtime
 FormsViewGroup
 Merq
 Newtonsoft.Json
@@ -11,7 +12,6 @@ System.Reactive.Core
 System.Reactive.Interfaces
 System.Reactive.Linq
 System.Reactive.PlatformServices
-System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
 Xamarin.Android.Arch.Lifecycle.Runtime

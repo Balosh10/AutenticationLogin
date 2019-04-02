@@ -55,7 +55,7 @@
                 ActivePlaceholderColor="White"
                 TextColor="White"
                 IsPassword="True"/>
-            
+
             <Button Grid.Row="3"
                 Grid.ColumnSpan="2" 
                 BackgroundColor="#11B5BD"
@@ -63,6 +63,14 @@
                 TextColor="White"
                 BorderRadius="25"
                 Command="{Binding SubmitCommand}"/>
+            <!--<Label HorizontalOptions="Center"
+                   TextColor="Blue"
+                   FontSize="20"
+                   Text="¿No tienes cuenta?">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding RegistrarCommad}" />
+                </Label.GestureRecognizers>
+            </Label>-->
         </Grid>
     </ScrollView>
 </ContentPage>
